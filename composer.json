@@ -1,5 +1,5 @@
 {
-  "name": "bedezign/yii2-audit",
+  "name": "wakasann/yii2-audit",
   "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
   "keywords": [
     "yii2",
@@ -31,7 +31,7 @@
     "ext-bcmath": "*",
     "yiisoft/yii2": "^2.0.13",
     "yiisoft/yii2-debug": "^2.0.7",
-    "2amigos/yii2-chartjs-widget": "^2.0.1",
+    "wakasann/yii2-chartjs-widget": "^2.0.1",
     "phpspec/php-diff": "1.*"
   },
   "suggest": {
